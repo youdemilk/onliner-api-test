@@ -1,0 +1,6 @@
+[submodule "onliner-api-test-submodule-1"]
+	path = onliner-api-test-submodule-1
+	url = https://github.com/youdemilk/onliner-api-test-submodule-1.git
+[submodule "onliner-api-test-submodule-2"]
+	path = onliner-api-test-submodule-2
+	url = https://github.com/youdemilk/onliner-api-test-submodule-2.git
